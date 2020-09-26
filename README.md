@@ -1,4 +1,4 @@
-### Hi there 👋
+### 24岁，是学生 👋
 
 <!--
 **mxdzs0612/mxdzs0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
