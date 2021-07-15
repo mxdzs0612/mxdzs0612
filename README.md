@@ -1,4 +1,4 @@
-### 25岁，即将不是学生 👋
+### 25岁，不是学生 👋
 
 <!--
 **mxdzs0612/mxdzs0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
