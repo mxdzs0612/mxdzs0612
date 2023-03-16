@@ -1,4 +1,4 @@
-### 26岁，是个写代码的 👋
+### 一个无情的点STAR机器 👋
 
 <!--
 **mxdzs0612/mxdzs0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
